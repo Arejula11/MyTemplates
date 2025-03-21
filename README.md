@@ -8,6 +8,7 @@ Welcome to **Template Hub**! This repository serves as a central location for al
 |---------------|------------|
 | [Express.js Template](https://github.com/Arejula11/templateExpress.git) |  This template includes a basic Express application structure with MVC organization.|
 | [C++ Project Template](https://github.com/Arejula11/templateCplusplus.git) | A structured C++ project template for kickstarting C++ projects.|
+| [Astro Template](https://github.com/Arejula11/templateAstro.git)| A starter template for building fast, modern websites using Astro. |
 
 ## How to Use a Template 🛠️  
 
